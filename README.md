@@ -1,1 +1,1 @@
-# whitenoisedetection
+# whitenoise

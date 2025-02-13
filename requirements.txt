@@ -10,3 +10,4 @@ tensorflow
 yfinance
 ta
 shap
+missingno

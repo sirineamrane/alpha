@@ -11,3 +11,5 @@ yfinance
 ta
 shap
 missingno
+lightgbm
+

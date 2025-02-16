@@ -13,3 +13,4 @@ shap
 missingno
 lightgbm
 optuna
+tradingview_ta

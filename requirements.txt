@@ -15,3 +15,4 @@ lightgbm
 optuna
 tradingview_ta
 dask
+pyarrow
